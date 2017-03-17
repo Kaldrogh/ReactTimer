@@ -1,0 +1,23 @@
+.top-bar {
+  background-color: $top-bar-color;
+
+  ul {
+    background-color: $top-bar-color;
+  }
+
+  li a {
+    color: $text-menu-color;
+  }
+
+  .active-link {
+    color: $active-link;
+  }
+
+  .menu-text {
+    color: $top-bar-menu-text;
+
+    .menu-text-name {
+      color: $active-link;
+    }
+  }
+}
