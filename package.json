@@ -1,5 +1,5 @@
 {
-  "name": "react-timer",
+  "name": "reacttimer",
   "version": "1.0.0",
   "description": "A simple timer app with React",
   "main": "index.js",
