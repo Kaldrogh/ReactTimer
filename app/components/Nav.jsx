@@ -11,7 +11,7 @@ var Nav = React.createClass({
               React Timer
             </li>
             <li>
-              <IndexLink to="/timer" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>Timer</IndexLink>
+              <IndexLink to="/" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>Timer</IndexLink>
             </li>
             <li>
               <Link to="/countdown" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>Countdown</Link>
